@@ -1,0 +1,196 @@
+{
+  "project_info": {
+    "project_number": "22260862880",
+    "firebase_url": "https://upload-image-bdfd8-default-rtdb.firebaseio.com",
+    "project_id": "upload-image-bdfd8",
+    "storage_bucket": "upload-image-bdfd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22260862880:android:d273ffabe3e74efe0d9ec5",
+        "android_client_info": {
+          "package_name": "com.example.reply_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22260862880-2n3jb5i318kivlomm3h6cj1q32hhdb5l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.reply_flutter",
+            "certificate_hash": "f9f469a1e13115e1df7017e8093fe9978a45f224"
+          }
+        },
+        {
+          "client_id": "22260862880-n2estnu4np7dfr9fa8fkr92ijj70af6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4HCG8szAoF8wmw4xkDZoyRIO7jUwtOSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22260862880-n2estnu4np7dfr9fa8fkr92ijj70af6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22260862880:android:ff429658d54a834a0d9ec5",
+        "android_client_info": {
+          "package_name": "com.martialcoder.time_tracker_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22260862880-fphugnffgu7hjqir6kee8ddsv8efe5uu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.martialcoder.time_tracker_flutter",
+            "certificate_hash": "f9f469a1e13115e1df7017e8093fe9978a45f224"
+          }
+        },
+        {
+          "client_id": "22260862880-n2estnu4np7dfr9fa8fkr92ijj70af6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4HCG8szAoF8wmw4xkDZoyRIO7jUwtOSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22260862880-n2estnu4np7dfr9fa8fkr92ijj70af6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22260862880:android:8d472fd972c226cf0d9ec5",
+        "android_client_info": {
+          "package_name": "com.vatsalyadav.uploadimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22260862880-rsv8er4hoei4feplvo79vakukr340vhv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vatsalyadav.uploadimage",
+            "certificate_hash": "f9f469a1e13115e1df7017e8093fe9978a45f224"
+          }
+        },
+        {
+          "client_id": "22260862880-n2estnu4np7dfr9fa8fkr92ijj70af6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4HCG8szAoF8wmw4xkDZoyRIO7jUwtOSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22260862880-n2estnu4np7dfr9fa8fkr92ijj70af6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22260862880:android:377acad126d227aa0d9ec5",
+        "android_client_info": {
+          "package_name": "martialcoder.surajsahani.imagepreviewer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22260862880-2u1g06vo39ipbbeg6edbmf6jch53glft.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "martialcoder.surajsahani.imagepreviewer",
+            "certificate_hash": "f9f469a1e13115e1df7017e8093fe9978a45f224"
+          }
+        },
+        {
+          "client_id": "22260862880-n2estnu4np7dfr9fa8fkr92ijj70af6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4HCG8szAoF8wmw4xkDZoyRIO7jUwtOSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22260862880-n2estnu4np7dfr9fa8fkr92ijj70af6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22260862880:android:62eefeb7f52deca00d9ec5",
+        "android_client_info": {
+          "package_name": "martialcoder.surajsahani.imageupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "22260862880-hgrf93dkc16pi7j1st39006qfl5nuudf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "martialcoder.surajsahani.imageupload",
+            "certificate_hash": "f9f469a1e13115e1df7017e8093fe9978a45f224"
+          }
+        },
+        {
+          "client_id": "22260862880-n2estnu4np7dfr9fa8fkr92ijj70af6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4HCG8szAoF8wmw4xkDZoyRIO7jUwtOSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "22260862880-n2estnu4np7dfr9fa8fkr92ijj70af6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
