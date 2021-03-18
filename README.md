@@ -2,6 +2,9 @@
 Multiple Image Upload
 
 ![WhatsApp Image 2021-03-18 at 9 24 01 PM](https://user-images.githubusercontent.com/22853459/111656612-b4ea6500-8830-11eb-8611-0a4abec98ad4.jpeg)
+![](https://user-images.githubusercontent.com/22853459/111656612-b4ea6500-8830-11eb-8611-0a4abec98ad4.jpeg | width=100)
+
+
 
 https://user-images.githubusercontent.com/22853459/111656619-b6b42880-8830-11eb-8fa1-ce4671ff1782.mp4
 
