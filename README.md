@@ -1,2 +1,2 @@
-# Upload-Image
+# Image-Previewer
 Multiple Image Upload
